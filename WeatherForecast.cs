@@ -1,3 +1,5 @@
+using System;
+
 namespace ContentAPI
 {
     public class WeatherForecast

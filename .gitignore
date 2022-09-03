@@ -8,3 +8,5 @@
 /bin/Release/net6.0
 /.vs/ProjectEvaluation
 /.config
+/Properties/PublishProfiles
+/ContentAPI.csproj.user
